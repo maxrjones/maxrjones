@@ -9,7 +9,7 @@ of Technology/Woods Hole Oceanographic Institution Joint Program :volcano:
 Software:
 
 - [Zarr-Python](https://github.com/zarr-developers/zarr-python) - An implementation of chunked, compressed, N-dimensional arrays for Python
-- [VirtualiZarr](https://github.com/zarr-developers/VirtualiZarr/) - Cloud-optimize your scientific Data as Virtual Zarr stores, using xarray syntax.
+- [VirtualiZarr](https://github.com/zarr-developers/VirtualiZarr/) - Cloud-optimize your scientific Data as Virtual Zarr stores, using xarray syntax
 - [Virtual-tiff](https://github.com/virtual-zarr/virtual-tiff) - Produce and explore virtual Zarr with TIFFs
 - [Obspec-utils](https://github.com/virtual-zarr/obspec-utils) - Utilities for interacting with object storage, based on obspec
 - [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - A
